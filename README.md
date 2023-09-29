@@ -1,7 +1,7 @@
 # cc-checkerV2
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
-![BANDITCODING](https://img.shields.io/badge/Team-Darkxcode-green)
-![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
+![BANDITCODING](https://img.shields.io/badge/DevilPrince-green)
+![AUTHOR](https://img.shields.io/badge/Author-Razz735-orange)
 
 ## Install on desktop : 
 - Install XAMPP
