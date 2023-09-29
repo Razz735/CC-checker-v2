@@ -20,14 +20,7 @@
 
 ### Please don't use cc generator because it can make the API down
 
-### INDONESIAN LANGUAGE
 
-JIKA ANDA MENGGUNAKAN PROXY LIST SILAHKAN OPEN FILE 'settings.php' di dalam folder function
-
-- install php di PC atau Laptop kalian (caranya banyak di google)
-- sett up enviroment variable PHP (caranya di google banyak)
-- open file 'open.bat'
-- ENJOY :)
 
 #### mode_proxy = on [untuk menggunakan proxy]
 #### mode_proxy = off [tidak menggunakan proxy]
